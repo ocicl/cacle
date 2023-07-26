@@ -1,0 +1,10 @@
+* cacle
+
+Extensible cache services for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jlahd/cacle.git   |
+| commit  | 4cbe8cf  |
+| systems | cacle |
+|---------+-------------------------------------------|
+
